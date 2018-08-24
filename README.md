@@ -1,9 +1,7 @@
 # wordpress-qcloud-cos
 
 本插件的原作者射雕天龙，更新截止时间为2015-11-14
-
-我使用的时候已经失效了，所以更新了一下
-
+目前已经失效了，后经sy-records更新了一下。
 使用腾讯云对象存储服务 COS 作为附件存储空间的WordPress插件，本插件核心功能使用了腾讯云COS官方SDK。
 
 ## 插件特色
@@ -13,7 +11,7 @@
 * 本地删除可同步删除腾讯云上面的文件
 * 支持腾讯云云存储服务绑定的个性域名
 
-github项目地址:  [https://github.com/sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+github项目地址:  [https://github.com/dqhplhzz2008/wordpress-qcloud-cos](https://github.com/dqhplhzz2008/wordpress-qcloud-cos)
 
 
 ## 安装
@@ -30,4 +28,4 @@ github项目地址:  [https://github.com/sy-records/wordpress-qcloud-cos](https:
 * WordPress后台设置时，`Bucket设置`的input框只需填写桶名，无需带上`-你的APPID`
 
 ## 截图
-![设置页面](https://raw.githubusercontent.com/sy-records/wordpress-qcloud-cos/master/screenshot-1.png)
+![设置页面](https://raw.githubusercontent.com/dqhplhzz2008/wordpress-qcloud-cos/master/screenshot-1.png)
